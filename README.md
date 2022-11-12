@@ -12,4 +12,4 @@
 
 ### Language
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louis-cai&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louis-cai&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
