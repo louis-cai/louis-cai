@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @louis-cai
 - 👀 I’m interested in game, movie.
-- 🌱 I’m currently learning enginsh.
+- 🌱 I’m currently learning english.
 - 💞️ I’m looking to collaborate on to work in Canada.
 - 📫 How to reach me ...
 
