@@ -10,6 +10,12 @@
 - 💞️ I’m looking to collaborate on to work in Canada.
 - 📫 How to reach me ...
 
+### Be in touch
+
+* [Contact us]([https://darkness.app/contact/](https://twitter.com/louis__cai))
+* Check out our other projects: [ChatGift](https://www.whichgift.vip/)
+
+
 ### Language
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louis-cai&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
