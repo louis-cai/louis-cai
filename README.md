@@ -12,8 +12,8 @@
 
 ### Be in touch
 
-* [Contact us]([https://darkness.app/contact/](https://twitter.com/louis__cai))
-* Check out our other projects: [ChatGift](https://www.whichgift.vip/)
+* [Contact us](https://twitter.com/louis__cai)
+* Check out our other projects: [IELTS Letter Writing Coach]([https://www.whichgift.vip/](https://mailielts.com))
 
 
 ### Language
