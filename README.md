@@ -13,7 +13,7 @@
 ### Be in touch
 
 * [Contact us](https://twitter.com/louis__cai)
-* Check out our other projects: [IELTS Letter Writing Coach]([https://www.whichgift.vip/](https://mailielts.com))
+* Check out our other projects: [IELTS Letter Writing Coach](https://mailielts.com)
 
 
 ### Language
