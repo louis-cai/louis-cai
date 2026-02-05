@@ -36,7 +36,9 @@
     <td rowspan="2" width="30%" valign="top" style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px;">
       <h3 align="center">📊 My Stats</h3>
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=louis-cai&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB" width="100%" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=louis-cai&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB" width="100%" />
+        <br/>
+        <img src="https://streak-stats.demolab.com/?user=louis-cai&theme=transparent&hide_border=true&stroke=2563EB&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" width="100%" />
       </div>
     </td>
   </tr>
@@ -60,7 +62,7 @@
     <td width="50%" style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px;">
       <h3 align="center">🌍 Top Languages</h3>
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louis-cai&layout=compact&theme=transparent&hide_border=true&title_color=2563EB" width="100%" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=louis-cai&layout=compact&theme=transparent&hide_border=true&title_color=2563EB" width="100%" />
       </div>
     </td>
     <!-- Interests & Reach -->
