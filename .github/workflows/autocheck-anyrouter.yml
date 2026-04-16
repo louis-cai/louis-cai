@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: 执行签到
-        uses: rakuyoMo/autocheck-anyrouter@v1
+        uses: rakuyoMo/autocheck-anyrouter@v1.4.1
         with:
           # 从环境变量加载账号信息
           accounts: ${{ secrets.ANYROUTER_ACCOUNTS }}
